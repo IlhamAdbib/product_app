@@ -1,0 +1,1 @@
+It's a basic Spring application that manage the search of products by id and by  the price greater than a given value.In addition it create a web service that can display the list of products and it uses JPA to establish ORM with MYSQL and H2 databases 
